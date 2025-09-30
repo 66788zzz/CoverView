@@ -18,7 +18,7 @@ const Home = () => {
                 </div>
 
                 <a
-                    href="https://github.com/willow-god/CoverView"
+                    href="https://github.com/66788zzz/CoverView"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:translate-x-2 flex items-center justify-center duration-300 bg-gray-700 group rounded-xl text-white ml-auto mr-4 font-Inter font-semibold"
