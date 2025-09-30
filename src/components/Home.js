@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="flex items-center">
                     <img src={logo} alt="logo" className="w-8 h-8 mx-2" />
                     <h1 className="font-semibold md:text-xl text-lg font-Inter">
-                        清羽飞扬の封面生成
+                        化羽成简の封面生成
                     </h1>
                 </div>
 
