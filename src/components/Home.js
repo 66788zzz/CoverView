@@ -48,12 +48,14 @@ const Home = () => {
                         <span className="md:text-2xl font-semibold text-lg">立即创建</span>
                     </Link>
 
-                    <Link
-                        to="https://blog.ios1.top/"
-                        className="hover:translate-x-2 duration-300 bg-gray-700 hover:bg-gray-800 group rounded-full border-4 border-gray-100 px-6 md:px-8 text-white md:text-2xl text-base font-Poppins font-semibold md:p-4 p-2 mb-16"
+                        <a
+  href="https://blog.ios1.top/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:translate-x-2 duration-300 bg-gray-700 hover:bg-gray-800 group rounded-full border-4 border-gray-100 px-6 md:px-8 text-white md:text-2xl text-base font-Poppins font-semibold md:p-4 p-2 mb-16"
                     >
                         <span className="md:text-2xl font-semibold text-lg">站长博客</span>
-                    </Link>
+                    </a>
                     </div>
                     
                 </div>
