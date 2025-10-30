@@ -16,7 +16,7 @@ const defaultSettings = {
 	bgColor: "#949ee5",
 	pattern: "",
 	download: "PNG",
-	author: "Simple",
+	author: "化羽成简",
 	icon: defaultIcon,
 	devIconOptions: [defaultIcon],
 	font: 'font-Anek',
